@@ -16,8 +16,6 @@ Please submit any issue you have. If you have any ideas how to further improve t
 ## Environment
 
 - Python 3.6
-- Flask (web framework)
-- zappa (deployment to AWS lambda)
 - numpy (Python computing package)
 - pandas (Python data analytics library)
 - statsmodels (Python statistics module)
@@ -26,7 +24,6 @@ Please submit any issue you have. If you have any ideas how to further improve t
 - Scikit-learn (Python machine learning library)
 - Joblib (Python pipelining library)
 - Psycopg (Python PostgreSQL adapter)
-- Boto 3 (AWS Python SDK)
 
 ## Prediction pipeline (as in training.train())
 
