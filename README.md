@@ -44,6 +44,7 @@ The average relative deviation of a prediction from its actual, true value equal
 Here are the results:
 
 Training accuracies: Linear 0.34, Tree 0.67, Forest 0.75, SVR 0.63
+
 Test accuracies: Linear 0.32, Tree 0.64, Forest 0.66, SVR 0.61
 
 Our best regressor is the random forest with the highest test accuracy of 66%. It seems to be a little overfit though since the deviation from its training accuracy is relatively large. Feel free to experiment with other values for the hyperparameters to further improve all of the models.
